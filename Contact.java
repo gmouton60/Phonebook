@@ -2,12 +2,7 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- */
-//Student Name: Gerald Mouton
-//LSU ID: 894569516
-//Lab Section: Lab 2
-//Assignment: Lab 5
-//Submission Time:1:45 
+ */ 
 
 package phonebookproject;
 
